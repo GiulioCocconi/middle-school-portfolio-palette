@@ -1,6 +1,7 @@
 {
   "name": "vite_react_shadcn_ts",
   "private": false,
+  "homepage": "https://giuliococconi.github.io/middle-school-portfolio-palette/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
